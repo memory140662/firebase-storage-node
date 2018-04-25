@@ -1,14 +1,13 @@
 {
   "name": "firebase-storage-node",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "description": "Firebase Upload File In Node.",
+  "main": "cmd-index.js",
+  "author": "Guilin Zhu",
   "license": "ISC",
   "dependencies": {
-    "firebase": "^4.13.1"
+    "firebase": "^4.13.1",
+    "lodash": "^4.17.5",
+    "yargs": "^11.0.0"
   }
 }
